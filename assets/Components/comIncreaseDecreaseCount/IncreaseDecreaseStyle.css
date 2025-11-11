@@ -1,0 +1,17 @@
+
+
+button {
+  padding: 15px 30px;
+  font-size: 20px;
+  color: white;
+  background-color: green;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin: 0 10px;
+  flex: 1; /* Make buttons take up equal space */
+}
+.h2 {
+  font-size: 3rem;
+}
+
